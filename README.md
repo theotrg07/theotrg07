@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on CoderHub
-- 📫 How to reach me: Discord: theo_trg#5955
+- 📫 How to reach me: Discord: theo trg#5955
 - ⚡ Fun fact: I love football
 
 ## Languages
