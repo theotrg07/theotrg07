@@ -1,7 +1,7 @@
- <h2 align="center" colour='#ffffff' font-size='32px'> Hi there, I 'm Theo! 👋</h2> 
+ <h2 align="center"> Hi there, I 'm Theo! 👋</h2> 
 
 <p align='center'>
-  <a href="https://twitter.com/Theo65434871"><img align="center" width="47%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;
+  <a width='47%' href="https://twitter.com/Theo65434871"><img align="center" width="47%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;
   <a href="https://theotrg-portfolio.netlify.app"><img align="center" width="47%" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;
  </p>
  
