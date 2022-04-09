@@ -5,6 +5,11 @@
   <a href="https://theotrg-portfolio.netlify.app"><img align="center" width="47%" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;
  </p>
  
+ <p align='center'>
+ Hello, Theo here, a young web developer passionate with programming. I am currently 
+ working on Coderhub, with my awesome team and really enjoy it!
+</p>
+ 
  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Theotrg07&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrg07&layout=compact" />
