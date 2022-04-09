@@ -1,11 +1,11 @@
  <h1 align="center"> Hi there, I 'm Theo! 👋</h1> 
 
 <p align='center'>
-  <a href="https://theotrg-portfolio.netlify.app"><img align="center" width="47%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/Theo65434871"><img align="center" width="47%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://theotrg-portfolio.netlify.app"><img align="center" width="47%" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
  </p>
-
-
-
+ 
+ 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Theotrg07&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrg07&layout=compact" />
 
