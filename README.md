@@ -1,9 +1,6 @@
-<h1 align="cetner">
-## Hi there, I 'm Theo! 👋
-</h1> 
+## <h1 align="cetner">Hi there, I 'm Theo! 👋</h1> 
 
- <p align='center'>
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</p>
+ <div align='center'>![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</div>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Theotrg07&show_icons=true&theme=radical" />
