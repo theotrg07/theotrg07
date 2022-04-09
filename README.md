@@ -12,7 +12,7 @@
 <img align='left' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
 
 ##
-
+-
 - 🔭 I’m currently working on CoderHub
 - 📫 How to reach me: Discord: theo trg#5955
 
