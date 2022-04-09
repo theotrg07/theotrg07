@@ -1,7 +1,7 @@
 ## Hi there, I 'm Theo! 👋 
 
 
-## <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Theotrg07&show_icons=true&theme=radical" />
+##www.youtube.com <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Theotrg07&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrg07&layout=compact" />
 
 <img align='left' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,8 +11,6 @@
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
 
 <img align='left' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
-
-
 
 ## Info
 - 🔭 I’m currently working on CoderHub
