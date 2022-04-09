@@ -1,4 +1,4 @@
-## Hi there, I 'm Theo! 👋 
+#### Hi there, I 'm Theo! 👋 
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Theotrg07&show_icons=true&theme=radical" />
@@ -12,7 +12,6 @@
 <img align='left' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
 
 ## Info
-
 - 🔭 I’m currently working on CoderHub
 - 📫 How to reach me: Discord: theo trg#5955
 
