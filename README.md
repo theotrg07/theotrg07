@@ -1,4 +1,4 @@
- <h1 align="center">## Hi there, I 'm Theo! 👋</h1> 
+ <h1 align="center"> Hi there, I 'm Theo! 👋</h1> 
 
  <div align='center'> 
    ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
