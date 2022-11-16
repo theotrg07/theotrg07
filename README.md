@@ -28,7 +28,7 @@
 - German
 
 ## Info
-- 🔭 I’m currently working on CoderHub
+- 🔭 I’m currently working on: A big React.js project 
 - 📫 How to reach me: Discord: theo trg#5955
 
 
