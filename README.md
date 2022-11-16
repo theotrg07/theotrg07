@@ -7,7 +7,7 @@
  
  <p align='center'>
  Hello, Theo here, a young web developer passionate with programming. I am currently 
- working on Coderhub, with my awesome team and really enjoy it!
+ working on a personal, huge React.js project, and really enjoy it!
 </p>
  
  
